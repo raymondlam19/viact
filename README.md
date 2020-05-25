@@ -1,5 +1,9 @@
 # viact testing (CV, multi-label classification)
 
+Dependencies
+-----------------------------------------------------------
+numpy, pandas, matplotlib, seaborn, cv2, time, keras, tensorflow(1.14)
+
 Data Preprocessing
 -----------------------------------------------------------
 1) Convert xml intro pd.DataFrame
