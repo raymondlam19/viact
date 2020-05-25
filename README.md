@@ -2,7 +2,7 @@
 
 Dependencies
 -----------------------------------------------------------
-numpy, pandas, matplotlib, seaborn, cv2, time, keras, tensorflow(1.14)
+numpy, pandas, matplotlib, seaborn, cv2, time, keras, tensorflow==1.14
 
 Data Preprocessing
 -----------------------------------------------------------
